@@ -1,4 +1,4 @@
-In this project we will use openCV and dlib to swap the faces fro  two sample images.
+In this project we will use openCV and dlib to swap the faces from two sample images.
 
 The steps involved in the project:
 - Download the pre-trained model for shape predictor.
